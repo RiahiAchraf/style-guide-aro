@@ -1,4 +1,4 @@
-import {ToggleSwitch } from "./ToggleSwitch";
+import ToggleSwitch  from "./ToggleSwitch";
 export * from "./ToggleSwitch";
 
 export default ToggleSwitch;

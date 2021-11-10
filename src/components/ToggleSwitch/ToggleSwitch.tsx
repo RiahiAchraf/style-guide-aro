@@ -6,7 +6,7 @@ export interface ToggleSwitchProps {
   onChange: (value: Boolean) => void;
 }
 
-export const ToggleSwitch = ({ enabled, onChange }: ToggleSwitchProps) => (
+const ToggleSwitch = ({ enabled, onChange }: ToggleSwitchProps) => (
   <Switch
     checked={enabled}
     onChange={onChange}
@@ -21,3 +21,5 @@ export const ToggleSwitch = ({ enabled, onChange }: ToggleSwitchProps) => (
     />
   </Switch>
 );
+
+export default ToggleSwitch;
