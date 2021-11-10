@@ -1,9 +1,9 @@
 import React from 'react';
 import { Meta, Story } from '@storybook/react';
-import { ToggleSwitch, ToggleSwitchProps} from '../src';
+import ToggleSwitch, { ToggleSwitchProps } from "../src/components/ToggleSwitch"
 
 const meta: Meta = {
-  title: 'Input/Toggle Switch',
+  title: 'Components/Toggle Switch',
   component: ToggleSwitch,
   argTypes: {
     onClick: { action: 'clicked' },
