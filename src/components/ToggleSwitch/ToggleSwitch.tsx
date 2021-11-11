@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { FC } from 'react';
 import { Switch } from '@headlessui/react';
 
 export interface ToggleSwitchProps {
@@ -6,7 +6,7 @@ export interface ToggleSwitchProps {
   onChange: (value: Boolean) => void;
 }
 
-const ToggleSwitch = ({ enabled, onChange }: ToggleSwitchProps) => (
+const ToggleSwitch:FC<ToggleSwitchProps> = ({ enabled, onChange }) => (
   <Switch
     checked={enabled}
     onChange={onChange}
