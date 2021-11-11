@@ -1,0 +1,66 @@
+var helpers = require("./node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+helpers.prelude(module);
+try {
+  require('react-app-polyfill/ie11');
+  var _react = require('react');
+  var _reactDom = require('react-dom');
+  var _styleGuideAro = require('style-guide-aro');
+  require('style-guide-aro/dist/tailwind.css');
+  var _jsxFileName = "/home/achraf/Desktop/ARO/style-guide-aro/example/index.tsx";
+  const App = () => {
+    const [isToggled, setIsToggled] = _react.useState(false);
+    const [value, setValue] = _react.useState("AA");
+    return (
+      /*#__PURE__*/_react.createElement("div", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 12,
+          columnNumber: 5
+        }
+      }, /*#__PURE__*/_react.createElement(_styleGuideAro.ToggleSwitch, {
+        enabled: isToggled,
+        onChange: v => setIsToggled(v),
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 13,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_react.createElement(_styleGuideAro.TextInput, {
+        value: value,
+        name: "email",
+        label: "label",
+        error: true,
+        optional: true,
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 17,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_react.createElement(_styleGuideAro.Button, {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18,
+          columnNumber: 7
+        }
+      }))
+    );
+  };
+  _reactDom.render(/*#__PURE__*/_react.createElement(App, {
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23,
+      columnNumber: 17
+    }
+  }), document.getElementById('root'));
+  helpers.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}

@@ -5663,10 +5663,10 @@ strip-ansi@^6.0.0, strip-ansi@^6.0.1:
   dependencies:
     ansi-regex "^5.0.1"
 
-style-guide-aro@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/style-guide-aro/-/style-guide-aro-1.0.1.tgz#a33481b817fb228651cfef38106e20703dfbd430"
-  integrity sha512-sdOrmdPCmsD+f9XXNnpeyYn20MqAzNpfsGWv7Q7Q/uXUVNNHzjb5nVgNBS8CYwhbLSzD0O0Q1iEd3sk5FJOFag==
+style-guide-aro@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/style-guide-aro/-/style-guide-aro-1.0.2.tgz#6d5f1d19cd991768716ecf2be1f2fcc2981c586e"
+  integrity sha512-OR0Ebv8frb+kzfwB80DPqhAZPrVEJQTHS0t5yV/2OWgxrCegJCPrWvmmkyEuslTO1ku4z7xgv4hcBe3u5fc/ig==
   dependencies:
     "@headlessui/react" "^1.4.2"
     "@heroicons/react" "^1.0.5"

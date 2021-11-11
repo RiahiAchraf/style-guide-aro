@@ -1,0 +1,1152 @@
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+_parcelHelpers.defineInteropFlag(exports);
+_parcelHelpers.export(exports, "AcademicCapIcon", function () {
+  return _AcademicCapIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "AdjustmentsIcon", function () {
+  return _AdjustmentsIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "AnnotationIcon", function () {
+  return _AnnotationIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArchiveIcon", function () {
+  return _ArchiveIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowCircleDownIcon", function () {
+  return _ArrowCircleDownIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowCircleLeftIcon", function () {
+  return _ArrowCircleLeftIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowCircleRightIcon", function () {
+  return _ArrowCircleRightIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowCircleUpIcon", function () {
+  return _ArrowCircleUpIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowDownIcon", function () {
+  return _ArrowDownIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowLeftIcon", function () {
+  return _ArrowLeftIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowNarrowDownIcon", function () {
+  return _ArrowNarrowDownIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowNarrowLeftIcon", function () {
+  return _ArrowNarrowLeftIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowNarrowRightIcon", function () {
+  return _ArrowNarrowRightIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowNarrowUpIcon", function () {
+  return _ArrowNarrowUpIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowRightIcon", function () {
+  return _ArrowRightIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowSmDownIcon", function () {
+  return _ArrowSmDownIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowSmLeftIcon", function () {
+  return _ArrowSmLeftIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowSmRightIcon", function () {
+  return _ArrowSmRightIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowSmUpIcon", function () {
+  return _ArrowSmUpIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowUpIcon", function () {
+  return _ArrowUpIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ArrowsExpandIcon", function () {
+  return _ArrowsExpandIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "AtSymbolIcon", function () {
+  return _AtSymbolIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "BackspaceIcon", function () {
+  return _BackspaceIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "BadgeCheckIcon", function () {
+  return _BadgeCheckIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "BanIcon", function () {
+  return _BanIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "BeakerIcon", function () {
+  return _BeakerIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "BellIcon", function () {
+  return _BellIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "BookOpenIcon", function () {
+  return _BookOpenIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "BookmarkAltIcon", function () {
+  return _BookmarkAltIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "BookmarkIcon", function () {
+  return _BookmarkIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "BriefcaseIcon", function () {
+  return _BriefcaseIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CakeIcon", function () {
+  return _CakeIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CalculatorIcon", function () {
+  return _CalculatorIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CalendarIcon", function () {
+  return _CalendarIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CameraIcon", function () {
+  return _CameraIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CashIcon", function () {
+  return _CashIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChartBarIcon", function () {
+  return _ChartBarIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChartPieIcon", function () {
+  return _ChartPieIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChartSquareBarIcon", function () {
+  return _ChartSquareBarIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChatAlt2Icon", function () {
+  return _ChatAlt2IconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChatAltIcon", function () {
+  return _ChatAltIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChatIcon", function () {
+  return _ChatIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CheckCircleIcon", function () {
+  return _CheckCircleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CheckIcon", function () {
+  return _CheckIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChevronDoubleDownIcon", function () {
+  return _ChevronDoubleDownIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChevronDoubleLeftIcon", function () {
+  return _ChevronDoubleLeftIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChevronDoubleRightIcon", function () {
+  return _ChevronDoubleRightIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChevronDoubleUpIcon", function () {
+  return _ChevronDoubleUpIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChevronDownIcon", function () {
+  return _ChevronDownIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChevronLeftIcon", function () {
+  return _ChevronLeftIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChevronRightIcon", function () {
+  return _ChevronRightIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChevronUpIcon", function () {
+  return _ChevronUpIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ChipIcon", function () {
+  return _ChipIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ClipboardCheckIcon", function () {
+  return _ClipboardCheckIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ClipboardCopyIcon", function () {
+  return _ClipboardCopyIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ClipboardListIcon", function () {
+  return _ClipboardListIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ClipboardIcon", function () {
+  return _ClipboardIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ClockIcon", function () {
+  return _ClockIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CloudDownloadIcon", function () {
+  return _CloudDownloadIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CloudUploadIcon", function () {
+  return _CloudUploadIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CloudIcon", function () {
+  return _CloudIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CodeIcon", function () {
+  return _CodeIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CogIcon", function () {
+  return _CogIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CollectionIcon", function () {
+  return _CollectionIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ColorSwatchIcon", function () {
+  return _ColorSwatchIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CreditCardIcon", function () {
+  return _CreditCardIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CubeTransparentIcon", function () {
+  return _CubeTransparentIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CubeIcon", function () {
+  return _CubeIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CurrencyBangladeshiIcon", function () {
+  return _CurrencyBangladeshiIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CurrencyDollarIcon", function () {
+  return _CurrencyDollarIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CurrencyEuroIcon", function () {
+  return _CurrencyEuroIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CurrencyPoundIcon", function () {
+  return _CurrencyPoundIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CurrencyRupeeIcon", function () {
+  return _CurrencyRupeeIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CurrencyYenIcon", function () {
+  return _CurrencyYenIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "CursorClickIcon", function () {
+  return _CursorClickIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DatabaseIcon", function () {
+  return _DatabaseIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DesktopComputerIcon", function () {
+  return _DesktopComputerIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DeviceMobileIcon", function () {
+  return _DeviceMobileIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DeviceTabletIcon", function () {
+  return _DeviceTabletIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DocumentAddIcon", function () {
+  return _DocumentAddIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DocumentDownloadIcon", function () {
+  return _DocumentDownloadIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DocumentDuplicateIcon", function () {
+  return _DocumentDuplicateIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DocumentRemoveIcon", function () {
+  return _DocumentRemoveIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DocumentReportIcon", function () {
+  return _DocumentReportIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DocumentSearchIcon", function () {
+  return _DocumentSearchIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DocumentTextIcon", function () {
+  return _DocumentTextIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DocumentIcon", function () {
+  return _DocumentIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DotsCircleHorizontalIcon", function () {
+  return _DotsCircleHorizontalIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DotsHorizontalIcon", function () {
+  return _DotsHorizontalIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DotsVerticalIcon", function () {
+  return _DotsVerticalIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DownloadIcon", function () {
+  return _DownloadIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "DuplicateIcon", function () {
+  return _DuplicateIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "EmojiHappyIcon", function () {
+  return _EmojiHappyIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "EmojiSadIcon", function () {
+  return _EmojiSadIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ExclamationCircleIcon", function () {
+  return _ExclamationCircleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ExclamationIcon", function () {
+  return _ExclamationIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ExternalLinkIcon", function () {
+  return _ExternalLinkIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "EyeOffIcon", function () {
+  return _EyeOffIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "EyeIcon", function () {
+  return _EyeIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FastForwardIcon", function () {
+  return _FastForwardIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FilmIcon", function () {
+  return _FilmIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FilterIcon", function () {
+  return _FilterIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FingerPrintIcon", function () {
+  return _FingerPrintIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FireIcon", function () {
+  return _FireIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FlagIcon", function () {
+  return _FlagIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FolderAddIcon", function () {
+  return _FolderAddIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FolderDownloadIcon", function () {
+  return _FolderDownloadIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FolderOpenIcon", function () {
+  return _FolderOpenIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FolderRemoveIcon", function () {
+  return _FolderRemoveIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "FolderIcon", function () {
+  return _FolderIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "GiftIcon", function () {
+  return _GiftIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "GlobeAltIcon", function () {
+  return _GlobeAltIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "GlobeIcon", function () {
+  return _GlobeIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "HandIcon", function () {
+  return _HandIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "HashtagIcon", function () {
+  return _HashtagIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "HeartIcon", function () {
+  return _HeartIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "HomeIcon", function () {
+  return _HomeIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "IdentificationIcon", function () {
+  return _IdentificationIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "InboxInIcon", function () {
+  return _InboxInIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "InboxIcon", function () {
+  return _InboxIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "InformationCircleIcon", function () {
+  return _InformationCircleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "KeyIcon", function () {
+  return _KeyIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "LibraryIcon", function () {
+  return _LibraryIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "LightBulbIcon", function () {
+  return _LightBulbIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "LightningBoltIcon", function () {
+  return _LightningBoltIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "LinkIcon", function () {
+  return _LinkIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "LocationMarkerIcon", function () {
+  return _LocationMarkerIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "LockClosedIcon", function () {
+  return _LockClosedIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "LockOpenIcon", function () {
+  return _LockOpenIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "LoginIcon", function () {
+  return _LoginIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "LogoutIcon", function () {
+  return _LogoutIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MailOpenIcon", function () {
+  return _MailOpenIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MailIcon", function () {
+  return _MailIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MapIcon", function () {
+  return _MapIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MenuAlt1Icon", function () {
+  return _MenuAlt1IconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MenuAlt2Icon", function () {
+  return _MenuAlt2IconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MenuAlt3Icon", function () {
+  return _MenuAlt3IconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MenuAlt4Icon", function () {
+  return _MenuAlt4IconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MenuIcon", function () {
+  return _MenuIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MicrophoneIcon", function () {
+  return _MicrophoneIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MinusCircleIcon", function () {
+  return _MinusCircleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MinusSmIcon", function () {
+  return _MinusSmIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MinusIcon", function () {
+  return _MinusIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MoonIcon", function () {
+  return _MoonIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "MusicNoteIcon", function () {
+  return _MusicNoteIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "NewspaperIcon", function () {
+  return _NewspaperIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "OfficeBuildingIcon", function () {
+  return _OfficeBuildingIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PaperAirplaneIcon", function () {
+  return _PaperAirplaneIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PaperClipIcon", function () {
+  return _PaperClipIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PauseIcon", function () {
+  return _PauseIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PencilAltIcon", function () {
+  return _PencilAltIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PencilIcon", function () {
+  return _PencilIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PhoneIncomingIcon", function () {
+  return _PhoneIncomingIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PhoneMissedCallIcon", function () {
+  return _PhoneMissedCallIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PhoneOutgoingIcon", function () {
+  return _PhoneOutgoingIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PhoneIcon", function () {
+  return _PhoneIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PhotographIcon", function () {
+  return _PhotographIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PlayIcon", function () {
+  return _PlayIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PlusCircleIcon", function () {
+  return _PlusCircleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PlusSmIcon", function () {
+  return _PlusSmIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PlusIcon", function () {
+  return _PlusIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PresentationChartBarIcon", function () {
+  return _PresentationChartBarIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PresentationChartLineIcon", function () {
+  return _PresentationChartLineIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PrinterIcon", function () {
+  return _PrinterIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "PuzzleIcon", function () {
+  return _PuzzleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "QrcodeIcon", function () {
+  return _QrcodeIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "QuestionMarkCircleIcon", function () {
+  return _QuestionMarkCircleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ReceiptRefundIcon", function () {
+  return _ReceiptRefundIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ReceiptTaxIcon", function () {
+  return _ReceiptTaxIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "RefreshIcon", function () {
+  return _RefreshIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ReplyIcon", function () {
+  return _ReplyIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "RewindIcon", function () {
+  return _RewindIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "RssIcon", function () {
+  return _RssIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SaveAsIcon", function () {
+  return _SaveAsIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SaveIcon", function () {
+  return _SaveIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ScaleIcon", function () {
+  return _ScaleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ScissorsIcon", function () {
+  return _ScissorsIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SearchCircleIcon", function () {
+  return _SearchCircleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SearchIcon", function () {
+  return _SearchIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SelectorIcon", function () {
+  return _SelectorIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ServerIcon", function () {
+  return _ServerIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ShareIcon", function () {
+  return _ShareIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ShieldCheckIcon", function () {
+  return _ShieldCheckIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ShieldExclamationIcon", function () {
+  return _ShieldExclamationIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ShoppingBagIcon", function () {
+  return _ShoppingBagIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ShoppingCartIcon", function () {
+  return _ShoppingCartIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SortAscendingIcon", function () {
+  return _SortAscendingIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SortDescendingIcon", function () {
+  return _SortDescendingIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SparklesIcon", function () {
+  return _SparklesIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SpeakerphoneIcon", function () {
+  return _SpeakerphoneIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "StarIcon", function () {
+  return _StarIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "StatusOfflineIcon", function () {
+  return _StatusOfflineIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "StatusOnlineIcon", function () {
+  return _StatusOnlineIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "StopIcon", function () {
+  return _StopIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SunIcon", function () {
+  return _SunIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SupportIcon", function () {
+  return _SupportIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SwitchHorizontalIcon", function () {
+  return _SwitchHorizontalIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "SwitchVerticalIcon", function () {
+  return _SwitchVerticalIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TableIcon", function () {
+  return _TableIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TagIcon", function () {
+  return _TagIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TemplateIcon", function () {
+  return _TemplateIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TerminalIcon", function () {
+  return _TerminalIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ThumbDownIcon", function () {
+  return _ThumbDownIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ThumbUpIcon", function () {
+  return _ThumbUpIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TicketIcon", function () {
+  return _TicketIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TranslateIcon", function () {
+  return _TranslateIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TrashIcon", function () {
+  return _TrashIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TrendingDownIcon", function () {
+  return _TrendingDownIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TrendingUpIcon", function () {
+  return _TrendingUpIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "TruckIcon", function () {
+  return _TruckIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "UploadIcon", function () {
+  return _UploadIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "UserAddIcon", function () {
+  return _UserAddIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "UserCircleIcon", function () {
+  return _UserCircleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "UserGroupIcon", function () {
+  return _UserGroupIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "UserRemoveIcon", function () {
+  return _UserRemoveIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "UserIcon", function () {
+  return _UserIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "UsersIcon", function () {
+  return _UsersIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "VariableIcon", function () {
+  return _VariableIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "VideoCameraIcon", function () {
+  return _VideoCameraIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ViewBoardsIcon", function () {
+  return _ViewBoardsIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ViewGridAddIcon", function () {
+  return _ViewGridAddIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ViewGridIcon", function () {
+  return _ViewGridIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ViewListIcon", function () {
+  return _ViewListIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "VolumeOffIcon", function () {
+  return _VolumeOffIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "VolumeUpIcon", function () {
+  return _VolumeUpIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "WifiIcon", function () {
+  return _WifiIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "XCircleIcon", function () {
+  return _XCircleIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "XIcon", function () {
+  return _XIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ZoomInIcon", function () {
+  return _ZoomInIconJsDefault.default;
+});
+_parcelHelpers.export(exports, "ZoomOutIcon", function () {
+  return _ZoomOutIconJsDefault.default;
+});
+var _AcademicCapIconJs = require('./AcademicCapIcon.js');
+var _AcademicCapIconJsDefault = _parcelHelpers.interopDefault(_AcademicCapIconJs);
+var _AdjustmentsIconJs = require('./AdjustmentsIcon.js');
+var _AdjustmentsIconJsDefault = _parcelHelpers.interopDefault(_AdjustmentsIconJs);
+var _AnnotationIconJs = require('./AnnotationIcon.js');
+var _AnnotationIconJsDefault = _parcelHelpers.interopDefault(_AnnotationIconJs);
+var _ArchiveIconJs = require('./ArchiveIcon.js');
+var _ArchiveIconJsDefault = _parcelHelpers.interopDefault(_ArchiveIconJs);
+var _ArrowCircleDownIconJs = require('./ArrowCircleDownIcon.js');
+var _ArrowCircleDownIconJsDefault = _parcelHelpers.interopDefault(_ArrowCircleDownIconJs);
+var _ArrowCircleLeftIconJs = require('./ArrowCircleLeftIcon.js');
+var _ArrowCircleLeftIconJsDefault = _parcelHelpers.interopDefault(_ArrowCircleLeftIconJs);
+var _ArrowCircleRightIconJs = require('./ArrowCircleRightIcon.js');
+var _ArrowCircleRightIconJsDefault = _parcelHelpers.interopDefault(_ArrowCircleRightIconJs);
+var _ArrowCircleUpIconJs = require('./ArrowCircleUpIcon.js');
+var _ArrowCircleUpIconJsDefault = _parcelHelpers.interopDefault(_ArrowCircleUpIconJs);
+var _ArrowDownIconJs = require('./ArrowDownIcon.js');
+var _ArrowDownIconJsDefault = _parcelHelpers.interopDefault(_ArrowDownIconJs);
+var _ArrowLeftIconJs = require('./ArrowLeftIcon.js');
+var _ArrowLeftIconJsDefault = _parcelHelpers.interopDefault(_ArrowLeftIconJs);
+var _ArrowNarrowDownIconJs = require('./ArrowNarrowDownIcon.js');
+var _ArrowNarrowDownIconJsDefault = _parcelHelpers.interopDefault(_ArrowNarrowDownIconJs);
+var _ArrowNarrowLeftIconJs = require('./ArrowNarrowLeftIcon.js');
+var _ArrowNarrowLeftIconJsDefault = _parcelHelpers.interopDefault(_ArrowNarrowLeftIconJs);
+var _ArrowNarrowRightIconJs = require('./ArrowNarrowRightIcon.js');
+var _ArrowNarrowRightIconJsDefault = _parcelHelpers.interopDefault(_ArrowNarrowRightIconJs);
+var _ArrowNarrowUpIconJs = require('./ArrowNarrowUpIcon.js');
+var _ArrowNarrowUpIconJsDefault = _parcelHelpers.interopDefault(_ArrowNarrowUpIconJs);
+var _ArrowRightIconJs = require('./ArrowRightIcon.js');
+var _ArrowRightIconJsDefault = _parcelHelpers.interopDefault(_ArrowRightIconJs);
+var _ArrowSmDownIconJs = require('./ArrowSmDownIcon.js');
+var _ArrowSmDownIconJsDefault = _parcelHelpers.interopDefault(_ArrowSmDownIconJs);
+var _ArrowSmLeftIconJs = require('./ArrowSmLeftIcon.js');
+var _ArrowSmLeftIconJsDefault = _parcelHelpers.interopDefault(_ArrowSmLeftIconJs);
+var _ArrowSmRightIconJs = require('./ArrowSmRightIcon.js');
+var _ArrowSmRightIconJsDefault = _parcelHelpers.interopDefault(_ArrowSmRightIconJs);
+var _ArrowSmUpIconJs = require('./ArrowSmUpIcon.js');
+var _ArrowSmUpIconJsDefault = _parcelHelpers.interopDefault(_ArrowSmUpIconJs);
+var _ArrowUpIconJs = require('./ArrowUpIcon.js');
+var _ArrowUpIconJsDefault = _parcelHelpers.interopDefault(_ArrowUpIconJs);
+var _ArrowsExpandIconJs = require('./ArrowsExpandIcon.js');
+var _ArrowsExpandIconJsDefault = _parcelHelpers.interopDefault(_ArrowsExpandIconJs);
+var _AtSymbolIconJs = require('./AtSymbolIcon.js');
+var _AtSymbolIconJsDefault = _parcelHelpers.interopDefault(_AtSymbolIconJs);
+var _BackspaceIconJs = require('./BackspaceIcon.js');
+var _BackspaceIconJsDefault = _parcelHelpers.interopDefault(_BackspaceIconJs);
+var _BadgeCheckIconJs = require('./BadgeCheckIcon.js');
+var _BadgeCheckIconJsDefault = _parcelHelpers.interopDefault(_BadgeCheckIconJs);
+var _BanIconJs = require('./BanIcon.js');
+var _BanIconJsDefault = _parcelHelpers.interopDefault(_BanIconJs);
+var _BeakerIconJs = require('./BeakerIcon.js');
+var _BeakerIconJsDefault = _parcelHelpers.interopDefault(_BeakerIconJs);
+var _BellIconJs = require('./BellIcon.js');
+var _BellIconJsDefault = _parcelHelpers.interopDefault(_BellIconJs);
+var _BookOpenIconJs = require('./BookOpenIcon.js');
+var _BookOpenIconJsDefault = _parcelHelpers.interopDefault(_BookOpenIconJs);
+var _BookmarkAltIconJs = require('./BookmarkAltIcon.js');
+var _BookmarkAltIconJsDefault = _parcelHelpers.interopDefault(_BookmarkAltIconJs);
+var _BookmarkIconJs = require('./BookmarkIcon.js');
+var _BookmarkIconJsDefault = _parcelHelpers.interopDefault(_BookmarkIconJs);
+var _BriefcaseIconJs = require('./BriefcaseIcon.js');
+var _BriefcaseIconJsDefault = _parcelHelpers.interopDefault(_BriefcaseIconJs);
+var _CakeIconJs = require('./CakeIcon.js');
+var _CakeIconJsDefault = _parcelHelpers.interopDefault(_CakeIconJs);
+var _CalculatorIconJs = require('./CalculatorIcon.js');
+var _CalculatorIconJsDefault = _parcelHelpers.interopDefault(_CalculatorIconJs);
+var _CalendarIconJs = require('./CalendarIcon.js');
+var _CalendarIconJsDefault = _parcelHelpers.interopDefault(_CalendarIconJs);
+var _CameraIconJs = require('./CameraIcon.js');
+var _CameraIconJsDefault = _parcelHelpers.interopDefault(_CameraIconJs);
+var _CashIconJs = require('./CashIcon.js');
+var _CashIconJsDefault = _parcelHelpers.interopDefault(_CashIconJs);
+var _ChartBarIconJs = require('./ChartBarIcon.js');
+var _ChartBarIconJsDefault = _parcelHelpers.interopDefault(_ChartBarIconJs);
+var _ChartPieIconJs = require('./ChartPieIcon.js');
+var _ChartPieIconJsDefault = _parcelHelpers.interopDefault(_ChartPieIconJs);
+var _ChartSquareBarIconJs = require('./ChartSquareBarIcon.js');
+var _ChartSquareBarIconJsDefault = _parcelHelpers.interopDefault(_ChartSquareBarIconJs);
+var _ChatAlt2IconJs = require('./ChatAlt2Icon.js');
+var _ChatAlt2IconJsDefault = _parcelHelpers.interopDefault(_ChatAlt2IconJs);
+var _ChatAltIconJs = require('./ChatAltIcon.js');
+var _ChatAltIconJsDefault = _parcelHelpers.interopDefault(_ChatAltIconJs);
+var _ChatIconJs = require('./ChatIcon.js');
+var _ChatIconJsDefault = _parcelHelpers.interopDefault(_ChatIconJs);
+var _CheckCircleIconJs = require('./CheckCircleIcon.js');
+var _CheckCircleIconJsDefault = _parcelHelpers.interopDefault(_CheckCircleIconJs);
+var _CheckIconJs = require('./CheckIcon.js');
+var _CheckIconJsDefault = _parcelHelpers.interopDefault(_CheckIconJs);
+var _ChevronDoubleDownIconJs = require('./ChevronDoubleDownIcon.js');
+var _ChevronDoubleDownIconJsDefault = _parcelHelpers.interopDefault(_ChevronDoubleDownIconJs);
+var _ChevronDoubleLeftIconJs = require('./ChevronDoubleLeftIcon.js');
+var _ChevronDoubleLeftIconJsDefault = _parcelHelpers.interopDefault(_ChevronDoubleLeftIconJs);
+var _ChevronDoubleRightIconJs = require('./ChevronDoubleRightIcon.js');
+var _ChevronDoubleRightIconJsDefault = _parcelHelpers.interopDefault(_ChevronDoubleRightIconJs);
+var _ChevronDoubleUpIconJs = require('./ChevronDoubleUpIcon.js');
+var _ChevronDoubleUpIconJsDefault = _parcelHelpers.interopDefault(_ChevronDoubleUpIconJs);
+var _ChevronDownIconJs = require('./ChevronDownIcon.js');
+var _ChevronDownIconJsDefault = _parcelHelpers.interopDefault(_ChevronDownIconJs);
+var _ChevronLeftIconJs = require('./ChevronLeftIcon.js');
+var _ChevronLeftIconJsDefault = _parcelHelpers.interopDefault(_ChevronLeftIconJs);
+var _ChevronRightIconJs = require('./ChevronRightIcon.js');
+var _ChevronRightIconJsDefault = _parcelHelpers.interopDefault(_ChevronRightIconJs);
+var _ChevronUpIconJs = require('./ChevronUpIcon.js');
+var _ChevronUpIconJsDefault = _parcelHelpers.interopDefault(_ChevronUpIconJs);
+var _ChipIconJs = require('./ChipIcon.js');
+var _ChipIconJsDefault = _parcelHelpers.interopDefault(_ChipIconJs);
+var _ClipboardCheckIconJs = require('./ClipboardCheckIcon.js');
+var _ClipboardCheckIconJsDefault = _parcelHelpers.interopDefault(_ClipboardCheckIconJs);
+var _ClipboardCopyIconJs = require('./ClipboardCopyIcon.js');
+var _ClipboardCopyIconJsDefault = _parcelHelpers.interopDefault(_ClipboardCopyIconJs);
+var _ClipboardListIconJs = require('./ClipboardListIcon.js');
+var _ClipboardListIconJsDefault = _parcelHelpers.interopDefault(_ClipboardListIconJs);
+var _ClipboardIconJs = require('./ClipboardIcon.js');
+var _ClipboardIconJsDefault = _parcelHelpers.interopDefault(_ClipboardIconJs);
+var _ClockIconJs = require('./ClockIcon.js');
+var _ClockIconJsDefault = _parcelHelpers.interopDefault(_ClockIconJs);
+var _CloudDownloadIconJs = require('./CloudDownloadIcon.js');
+var _CloudDownloadIconJsDefault = _parcelHelpers.interopDefault(_CloudDownloadIconJs);
+var _CloudUploadIconJs = require('./CloudUploadIcon.js');
+var _CloudUploadIconJsDefault = _parcelHelpers.interopDefault(_CloudUploadIconJs);
+var _CloudIconJs = require('./CloudIcon.js');
+var _CloudIconJsDefault = _parcelHelpers.interopDefault(_CloudIconJs);
+var _CodeIconJs = require('./CodeIcon.js');
+var _CodeIconJsDefault = _parcelHelpers.interopDefault(_CodeIconJs);
+var _CogIconJs = require('./CogIcon.js');
+var _CogIconJsDefault = _parcelHelpers.interopDefault(_CogIconJs);
+var _CollectionIconJs = require('./CollectionIcon.js');
+var _CollectionIconJsDefault = _parcelHelpers.interopDefault(_CollectionIconJs);
+var _ColorSwatchIconJs = require('./ColorSwatchIcon.js');
+var _ColorSwatchIconJsDefault = _parcelHelpers.interopDefault(_ColorSwatchIconJs);
+var _CreditCardIconJs = require('./CreditCardIcon.js');
+var _CreditCardIconJsDefault = _parcelHelpers.interopDefault(_CreditCardIconJs);
+var _CubeTransparentIconJs = require('./CubeTransparentIcon.js');
+var _CubeTransparentIconJsDefault = _parcelHelpers.interopDefault(_CubeTransparentIconJs);
+var _CubeIconJs = require('./CubeIcon.js');
+var _CubeIconJsDefault = _parcelHelpers.interopDefault(_CubeIconJs);
+var _CurrencyBangladeshiIconJs = require('./CurrencyBangladeshiIcon.js');
+var _CurrencyBangladeshiIconJsDefault = _parcelHelpers.interopDefault(_CurrencyBangladeshiIconJs);
+var _CurrencyDollarIconJs = require('./CurrencyDollarIcon.js');
+var _CurrencyDollarIconJsDefault = _parcelHelpers.interopDefault(_CurrencyDollarIconJs);
+var _CurrencyEuroIconJs = require('./CurrencyEuroIcon.js');
+var _CurrencyEuroIconJsDefault = _parcelHelpers.interopDefault(_CurrencyEuroIconJs);
+var _CurrencyPoundIconJs = require('./CurrencyPoundIcon.js');
+var _CurrencyPoundIconJsDefault = _parcelHelpers.interopDefault(_CurrencyPoundIconJs);
+var _CurrencyRupeeIconJs = require('./CurrencyRupeeIcon.js');
+var _CurrencyRupeeIconJsDefault = _parcelHelpers.interopDefault(_CurrencyRupeeIconJs);
+var _CurrencyYenIconJs = require('./CurrencyYenIcon.js');
+var _CurrencyYenIconJsDefault = _parcelHelpers.interopDefault(_CurrencyYenIconJs);
+var _CursorClickIconJs = require('./CursorClickIcon.js');
+var _CursorClickIconJsDefault = _parcelHelpers.interopDefault(_CursorClickIconJs);
+var _DatabaseIconJs = require('./DatabaseIcon.js');
+var _DatabaseIconJsDefault = _parcelHelpers.interopDefault(_DatabaseIconJs);
+var _DesktopComputerIconJs = require('./DesktopComputerIcon.js');
+var _DesktopComputerIconJsDefault = _parcelHelpers.interopDefault(_DesktopComputerIconJs);
+var _DeviceMobileIconJs = require('./DeviceMobileIcon.js');
+var _DeviceMobileIconJsDefault = _parcelHelpers.interopDefault(_DeviceMobileIconJs);
+var _DeviceTabletIconJs = require('./DeviceTabletIcon.js');
+var _DeviceTabletIconJsDefault = _parcelHelpers.interopDefault(_DeviceTabletIconJs);
+var _DocumentAddIconJs = require('./DocumentAddIcon.js');
+var _DocumentAddIconJsDefault = _parcelHelpers.interopDefault(_DocumentAddIconJs);
+var _DocumentDownloadIconJs = require('./DocumentDownloadIcon.js');
+var _DocumentDownloadIconJsDefault = _parcelHelpers.interopDefault(_DocumentDownloadIconJs);
+var _DocumentDuplicateIconJs = require('./DocumentDuplicateIcon.js');
+var _DocumentDuplicateIconJsDefault = _parcelHelpers.interopDefault(_DocumentDuplicateIconJs);
+var _DocumentRemoveIconJs = require('./DocumentRemoveIcon.js');
+var _DocumentRemoveIconJsDefault = _parcelHelpers.interopDefault(_DocumentRemoveIconJs);
+var _DocumentReportIconJs = require('./DocumentReportIcon.js');
+var _DocumentReportIconJsDefault = _parcelHelpers.interopDefault(_DocumentReportIconJs);
+var _DocumentSearchIconJs = require('./DocumentSearchIcon.js');
+var _DocumentSearchIconJsDefault = _parcelHelpers.interopDefault(_DocumentSearchIconJs);
+var _DocumentTextIconJs = require('./DocumentTextIcon.js');
+var _DocumentTextIconJsDefault = _parcelHelpers.interopDefault(_DocumentTextIconJs);
+var _DocumentIconJs = require('./DocumentIcon.js');
+var _DocumentIconJsDefault = _parcelHelpers.interopDefault(_DocumentIconJs);
+var _DotsCircleHorizontalIconJs = require('./DotsCircleHorizontalIcon.js');
+var _DotsCircleHorizontalIconJsDefault = _parcelHelpers.interopDefault(_DotsCircleHorizontalIconJs);
+var _DotsHorizontalIconJs = require('./DotsHorizontalIcon.js');
+var _DotsHorizontalIconJsDefault = _parcelHelpers.interopDefault(_DotsHorizontalIconJs);
+var _DotsVerticalIconJs = require('./DotsVerticalIcon.js');
+var _DotsVerticalIconJsDefault = _parcelHelpers.interopDefault(_DotsVerticalIconJs);
+var _DownloadIconJs = require('./DownloadIcon.js');
+var _DownloadIconJsDefault = _parcelHelpers.interopDefault(_DownloadIconJs);
+var _DuplicateIconJs = require('./DuplicateIcon.js');
+var _DuplicateIconJsDefault = _parcelHelpers.interopDefault(_DuplicateIconJs);
+var _EmojiHappyIconJs = require('./EmojiHappyIcon.js');
+var _EmojiHappyIconJsDefault = _parcelHelpers.interopDefault(_EmojiHappyIconJs);
+var _EmojiSadIconJs = require('./EmojiSadIcon.js');
+var _EmojiSadIconJsDefault = _parcelHelpers.interopDefault(_EmojiSadIconJs);
+var _ExclamationCircleIconJs = require('./ExclamationCircleIcon.js');
+var _ExclamationCircleIconJsDefault = _parcelHelpers.interopDefault(_ExclamationCircleIconJs);
+var _ExclamationIconJs = require('./ExclamationIcon.js');
+var _ExclamationIconJsDefault = _parcelHelpers.interopDefault(_ExclamationIconJs);
+var _ExternalLinkIconJs = require('./ExternalLinkIcon.js');
+var _ExternalLinkIconJsDefault = _parcelHelpers.interopDefault(_ExternalLinkIconJs);
+var _EyeOffIconJs = require('./EyeOffIcon.js');
+var _EyeOffIconJsDefault = _parcelHelpers.interopDefault(_EyeOffIconJs);
+var _EyeIconJs = require('./EyeIcon.js');
+var _EyeIconJsDefault = _parcelHelpers.interopDefault(_EyeIconJs);
+var _FastForwardIconJs = require('./FastForwardIcon.js');
+var _FastForwardIconJsDefault = _parcelHelpers.interopDefault(_FastForwardIconJs);
+var _FilmIconJs = require('./FilmIcon.js');
+var _FilmIconJsDefault = _parcelHelpers.interopDefault(_FilmIconJs);
+var _FilterIconJs = require('./FilterIcon.js');
+var _FilterIconJsDefault = _parcelHelpers.interopDefault(_FilterIconJs);
+var _FingerPrintIconJs = require('./FingerPrintIcon.js');
+var _FingerPrintIconJsDefault = _parcelHelpers.interopDefault(_FingerPrintIconJs);
+var _FireIconJs = require('./FireIcon.js');
+var _FireIconJsDefault = _parcelHelpers.interopDefault(_FireIconJs);
+var _FlagIconJs = require('./FlagIcon.js');
+var _FlagIconJsDefault = _parcelHelpers.interopDefault(_FlagIconJs);
+var _FolderAddIconJs = require('./FolderAddIcon.js');
+var _FolderAddIconJsDefault = _parcelHelpers.interopDefault(_FolderAddIconJs);
+var _FolderDownloadIconJs = require('./FolderDownloadIcon.js');
+var _FolderDownloadIconJsDefault = _parcelHelpers.interopDefault(_FolderDownloadIconJs);
+var _FolderOpenIconJs = require('./FolderOpenIcon.js');
+var _FolderOpenIconJsDefault = _parcelHelpers.interopDefault(_FolderOpenIconJs);
+var _FolderRemoveIconJs = require('./FolderRemoveIcon.js');
+var _FolderRemoveIconJsDefault = _parcelHelpers.interopDefault(_FolderRemoveIconJs);
+var _FolderIconJs = require('./FolderIcon.js');
+var _FolderIconJsDefault = _parcelHelpers.interopDefault(_FolderIconJs);
+var _GiftIconJs = require('./GiftIcon.js');
+var _GiftIconJsDefault = _parcelHelpers.interopDefault(_GiftIconJs);
+var _GlobeAltIconJs = require('./GlobeAltIcon.js');
+var _GlobeAltIconJsDefault = _parcelHelpers.interopDefault(_GlobeAltIconJs);
+var _GlobeIconJs = require('./GlobeIcon.js');
+var _GlobeIconJsDefault = _parcelHelpers.interopDefault(_GlobeIconJs);
+var _HandIconJs = require('./HandIcon.js');
+var _HandIconJsDefault = _parcelHelpers.interopDefault(_HandIconJs);
+var _HashtagIconJs = require('./HashtagIcon.js');
+var _HashtagIconJsDefault = _parcelHelpers.interopDefault(_HashtagIconJs);
+var _HeartIconJs = require('./HeartIcon.js');
+var _HeartIconJsDefault = _parcelHelpers.interopDefault(_HeartIconJs);
+var _HomeIconJs = require('./HomeIcon.js');
+var _HomeIconJsDefault = _parcelHelpers.interopDefault(_HomeIconJs);
+var _IdentificationIconJs = require('./IdentificationIcon.js');
+var _IdentificationIconJsDefault = _parcelHelpers.interopDefault(_IdentificationIconJs);
+var _InboxInIconJs = require('./InboxInIcon.js');
+var _InboxInIconJsDefault = _parcelHelpers.interopDefault(_InboxInIconJs);
+var _InboxIconJs = require('./InboxIcon.js');
+var _InboxIconJsDefault = _parcelHelpers.interopDefault(_InboxIconJs);
+var _InformationCircleIconJs = require('./InformationCircleIcon.js');
+var _InformationCircleIconJsDefault = _parcelHelpers.interopDefault(_InformationCircleIconJs);
+var _KeyIconJs = require('./KeyIcon.js');
+var _KeyIconJsDefault = _parcelHelpers.interopDefault(_KeyIconJs);
+var _LibraryIconJs = require('./LibraryIcon.js');
+var _LibraryIconJsDefault = _parcelHelpers.interopDefault(_LibraryIconJs);
+var _LightBulbIconJs = require('./LightBulbIcon.js');
+var _LightBulbIconJsDefault = _parcelHelpers.interopDefault(_LightBulbIconJs);
+var _LightningBoltIconJs = require('./LightningBoltIcon.js');
+var _LightningBoltIconJsDefault = _parcelHelpers.interopDefault(_LightningBoltIconJs);
+var _LinkIconJs = require('./LinkIcon.js');
+var _LinkIconJsDefault = _parcelHelpers.interopDefault(_LinkIconJs);
+var _LocationMarkerIconJs = require('./LocationMarkerIcon.js');
+var _LocationMarkerIconJsDefault = _parcelHelpers.interopDefault(_LocationMarkerIconJs);
+var _LockClosedIconJs = require('./LockClosedIcon.js');
+var _LockClosedIconJsDefault = _parcelHelpers.interopDefault(_LockClosedIconJs);
+var _LockOpenIconJs = require('./LockOpenIcon.js');
+var _LockOpenIconJsDefault = _parcelHelpers.interopDefault(_LockOpenIconJs);
+var _LoginIconJs = require('./LoginIcon.js');
+var _LoginIconJsDefault = _parcelHelpers.interopDefault(_LoginIconJs);
+var _LogoutIconJs = require('./LogoutIcon.js');
+var _LogoutIconJsDefault = _parcelHelpers.interopDefault(_LogoutIconJs);
+var _MailOpenIconJs = require('./MailOpenIcon.js');
+var _MailOpenIconJsDefault = _parcelHelpers.interopDefault(_MailOpenIconJs);
+var _MailIconJs = require('./MailIcon.js');
+var _MailIconJsDefault = _parcelHelpers.interopDefault(_MailIconJs);
+var _MapIconJs = require('./MapIcon.js');
+var _MapIconJsDefault = _parcelHelpers.interopDefault(_MapIconJs);
+var _MenuAlt1IconJs = require('./MenuAlt1Icon.js');
+var _MenuAlt1IconJsDefault = _parcelHelpers.interopDefault(_MenuAlt1IconJs);
+var _MenuAlt2IconJs = require('./MenuAlt2Icon.js');
+var _MenuAlt2IconJsDefault = _parcelHelpers.interopDefault(_MenuAlt2IconJs);
+var _MenuAlt3IconJs = require('./MenuAlt3Icon.js');
+var _MenuAlt3IconJsDefault = _parcelHelpers.interopDefault(_MenuAlt3IconJs);
+var _MenuAlt4IconJs = require('./MenuAlt4Icon.js');
+var _MenuAlt4IconJsDefault = _parcelHelpers.interopDefault(_MenuAlt4IconJs);
+var _MenuIconJs = require('./MenuIcon.js');
+var _MenuIconJsDefault = _parcelHelpers.interopDefault(_MenuIconJs);
+var _MicrophoneIconJs = require('./MicrophoneIcon.js');
+var _MicrophoneIconJsDefault = _parcelHelpers.interopDefault(_MicrophoneIconJs);
+var _MinusCircleIconJs = require('./MinusCircleIcon.js');
+var _MinusCircleIconJsDefault = _parcelHelpers.interopDefault(_MinusCircleIconJs);
+var _MinusSmIconJs = require('./MinusSmIcon.js');
+var _MinusSmIconJsDefault = _parcelHelpers.interopDefault(_MinusSmIconJs);
+var _MinusIconJs = require('./MinusIcon.js');
+var _MinusIconJsDefault = _parcelHelpers.interopDefault(_MinusIconJs);
+var _MoonIconJs = require('./MoonIcon.js');
+var _MoonIconJsDefault = _parcelHelpers.interopDefault(_MoonIconJs);
+var _MusicNoteIconJs = require('./MusicNoteIcon.js');
+var _MusicNoteIconJsDefault = _parcelHelpers.interopDefault(_MusicNoteIconJs);
+var _NewspaperIconJs = require('./NewspaperIcon.js');
+var _NewspaperIconJsDefault = _parcelHelpers.interopDefault(_NewspaperIconJs);
+var _OfficeBuildingIconJs = require('./OfficeBuildingIcon.js');
+var _OfficeBuildingIconJsDefault = _parcelHelpers.interopDefault(_OfficeBuildingIconJs);
+var _PaperAirplaneIconJs = require('./PaperAirplaneIcon.js');
+var _PaperAirplaneIconJsDefault = _parcelHelpers.interopDefault(_PaperAirplaneIconJs);
+var _PaperClipIconJs = require('./PaperClipIcon.js');
+var _PaperClipIconJsDefault = _parcelHelpers.interopDefault(_PaperClipIconJs);
+var _PauseIconJs = require('./PauseIcon.js');
+var _PauseIconJsDefault = _parcelHelpers.interopDefault(_PauseIconJs);
+var _PencilAltIconJs = require('./PencilAltIcon.js');
+var _PencilAltIconJsDefault = _parcelHelpers.interopDefault(_PencilAltIconJs);
+var _PencilIconJs = require('./PencilIcon.js');
+var _PencilIconJsDefault = _parcelHelpers.interopDefault(_PencilIconJs);
+var _PhoneIncomingIconJs = require('./PhoneIncomingIcon.js');
+var _PhoneIncomingIconJsDefault = _parcelHelpers.interopDefault(_PhoneIncomingIconJs);
+var _PhoneMissedCallIconJs = require('./PhoneMissedCallIcon.js');
+var _PhoneMissedCallIconJsDefault = _parcelHelpers.interopDefault(_PhoneMissedCallIconJs);
+var _PhoneOutgoingIconJs = require('./PhoneOutgoingIcon.js');
+var _PhoneOutgoingIconJsDefault = _parcelHelpers.interopDefault(_PhoneOutgoingIconJs);
+var _PhoneIconJs = require('./PhoneIcon.js');
+var _PhoneIconJsDefault = _parcelHelpers.interopDefault(_PhoneIconJs);
+var _PhotographIconJs = require('./PhotographIcon.js');
+var _PhotographIconJsDefault = _parcelHelpers.interopDefault(_PhotographIconJs);
+var _PlayIconJs = require('./PlayIcon.js');
+var _PlayIconJsDefault = _parcelHelpers.interopDefault(_PlayIconJs);
+var _PlusCircleIconJs = require('./PlusCircleIcon.js');
+var _PlusCircleIconJsDefault = _parcelHelpers.interopDefault(_PlusCircleIconJs);
+var _PlusSmIconJs = require('./PlusSmIcon.js');
+var _PlusSmIconJsDefault = _parcelHelpers.interopDefault(_PlusSmIconJs);
+var _PlusIconJs = require('./PlusIcon.js');
+var _PlusIconJsDefault = _parcelHelpers.interopDefault(_PlusIconJs);
+var _PresentationChartBarIconJs = require('./PresentationChartBarIcon.js');
+var _PresentationChartBarIconJsDefault = _parcelHelpers.interopDefault(_PresentationChartBarIconJs);
+var _PresentationChartLineIconJs = require('./PresentationChartLineIcon.js');
+var _PresentationChartLineIconJsDefault = _parcelHelpers.interopDefault(_PresentationChartLineIconJs);
+var _PrinterIconJs = require('./PrinterIcon.js');
+var _PrinterIconJsDefault = _parcelHelpers.interopDefault(_PrinterIconJs);
+var _PuzzleIconJs = require('./PuzzleIcon.js');
+var _PuzzleIconJsDefault = _parcelHelpers.interopDefault(_PuzzleIconJs);
+var _QrcodeIconJs = require('./QrcodeIcon.js');
+var _QrcodeIconJsDefault = _parcelHelpers.interopDefault(_QrcodeIconJs);
+var _QuestionMarkCircleIconJs = require('./QuestionMarkCircleIcon.js');
+var _QuestionMarkCircleIconJsDefault = _parcelHelpers.interopDefault(_QuestionMarkCircleIconJs);
+var _ReceiptRefundIconJs = require('./ReceiptRefundIcon.js');
+var _ReceiptRefundIconJsDefault = _parcelHelpers.interopDefault(_ReceiptRefundIconJs);
+var _ReceiptTaxIconJs = require('./ReceiptTaxIcon.js');
+var _ReceiptTaxIconJsDefault = _parcelHelpers.interopDefault(_ReceiptTaxIconJs);
+var _RefreshIconJs = require('./RefreshIcon.js');
+var _RefreshIconJsDefault = _parcelHelpers.interopDefault(_RefreshIconJs);
+var _ReplyIconJs = require('./ReplyIcon.js');
+var _ReplyIconJsDefault = _parcelHelpers.interopDefault(_ReplyIconJs);
+var _RewindIconJs = require('./RewindIcon.js');
+var _RewindIconJsDefault = _parcelHelpers.interopDefault(_RewindIconJs);
+var _RssIconJs = require('./RssIcon.js');
+var _RssIconJsDefault = _parcelHelpers.interopDefault(_RssIconJs);
+var _SaveAsIconJs = require('./SaveAsIcon.js');
+var _SaveAsIconJsDefault = _parcelHelpers.interopDefault(_SaveAsIconJs);
+var _SaveIconJs = require('./SaveIcon.js');
+var _SaveIconJsDefault = _parcelHelpers.interopDefault(_SaveIconJs);
+var _ScaleIconJs = require('./ScaleIcon.js');
+var _ScaleIconJsDefault = _parcelHelpers.interopDefault(_ScaleIconJs);
+var _ScissorsIconJs = require('./ScissorsIcon.js');
+var _ScissorsIconJsDefault = _parcelHelpers.interopDefault(_ScissorsIconJs);
+var _SearchCircleIconJs = require('./SearchCircleIcon.js');
+var _SearchCircleIconJsDefault = _parcelHelpers.interopDefault(_SearchCircleIconJs);
+var _SearchIconJs = require('./SearchIcon.js');
+var _SearchIconJsDefault = _parcelHelpers.interopDefault(_SearchIconJs);
+var _SelectorIconJs = require('./SelectorIcon.js');
+var _SelectorIconJsDefault = _parcelHelpers.interopDefault(_SelectorIconJs);
+var _ServerIconJs = require('./ServerIcon.js');
+var _ServerIconJsDefault = _parcelHelpers.interopDefault(_ServerIconJs);
+var _ShareIconJs = require('./ShareIcon.js');
+var _ShareIconJsDefault = _parcelHelpers.interopDefault(_ShareIconJs);
+var _ShieldCheckIconJs = require('./ShieldCheckIcon.js');
+var _ShieldCheckIconJsDefault = _parcelHelpers.interopDefault(_ShieldCheckIconJs);
+var _ShieldExclamationIconJs = require('./ShieldExclamationIcon.js');
+var _ShieldExclamationIconJsDefault = _parcelHelpers.interopDefault(_ShieldExclamationIconJs);
+var _ShoppingBagIconJs = require('./ShoppingBagIcon.js');
+var _ShoppingBagIconJsDefault = _parcelHelpers.interopDefault(_ShoppingBagIconJs);
+var _ShoppingCartIconJs = require('./ShoppingCartIcon.js');
+var _ShoppingCartIconJsDefault = _parcelHelpers.interopDefault(_ShoppingCartIconJs);
+var _SortAscendingIconJs = require('./SortAscendingIcon.js');
+var _SortAscendingIconJsDefault = _parcelHelpers.interopDefault(_SortAscendingIconJs);
+var _SortDescendingIconJs = require('./SortDescendingIcon.js');
+var _SortDescendingIconJsDefault = _parcelHelpers.interopDefault(_SortDescendingIconJs);
+var _SparklesIconJs = require('./SparklesIcon.js');
+var _SparklesIconJsDefault = _parcelHelpers.interopDefault(_SparklesIconJs);
+var _SpeakerphoneIconJs = require('./SpeakerphoneIcon.js');
+var _SpeakerphoneIconJsDefault = _parcelHelpers.interopDefault(_SpeakerphoneIconJs);
+var _StarIconJs = require('./StarIcon.js');
+var _StarIconJsDefault = _parcelHelpers.interopDefault(_StarIconJs);
+var _StatusOfflineIconJs = require('./StatusOfflineIcon.js');
+var _StatusOfflineIconJsDefault = _parcelHelpers.interopDefault(_StatusOfflineIconJs);
+var _StatusOnlineIconJs = require('./StatusOnlineIcon.js');
+var _StatusOnlineIconJsDefault = _parcelHelpers.interopDefault(_StatusOnlineIconJs);
+var _StopIconJs = require('./StopIcon.js');
+var _StopIconJsDefault = _parcelHelpers.interopDefault(_StopIconJs);
+var _SunIconJs = require('./SunIcon.js');
+var _SunIconJsDefault = _parcelHelpers.interopDefault(_SunIconJs);
+var _SupportIconJs = require('./SupportIcon.js');
+var _SupportIconJsDefault = _parcelHelpers.interopDefault(_SupportIconJs);
+var _SwitchHorizontalIconJs = require('./SwitchHorizontalIcon.js');
+var _SwitchHorizontalIconJsDefault = _parcelHelpers.interopDefault(_SwitchHorizontalIconJs);
+var _SwitchVerticalIconJs = require('./SwitchVerticalIcon.js');
+var _SwitchVerticalIconJsDefault = _parcelHelpers.interopDefault(_SwitchVerticalIconJs);
+var _TableIconJs = require('./TableIcon.js');
+var _TableIconJsDefault = _parcelHelpers.interopDefault(_TableIconJs);
+var _TagIconJs = require('./TagIcon.js');
+var _TagIconJsDefault = _parcelHelpers.interopDefault(_TagIconJs);
+var _TemplateIconJs = require('./TemplateIcon.js');
+var _TemplateIconJsDefault = _parcelHelpers.interopDefault(_TemplateIconJs);
+var _TerminalIconJs = require('./TerminalIcon.js');
+var _TerminalIconJsDefault = _parcelHelpers.interopDefault(_TerminalIconJs);
+var _ThumbDownIconJs = require('./ThumbDownIcon.js');
+var _ThumbDownIconJsDefault = _parcelHelpers.interopDefault(_ThumbDownIconJs);
+var _ThumbUpIconJs = require('./ThumbUpIcon.js');
+var _ThumbUpIconJsDefault = _parcelHelpers.interopDefault(_ThumbUpIconJs);
+var _TicketIconJs = require('./TicketIcon.js');
+var _TicketIconJsDefault = _parcelHelpers.interopDefault(_TicketIconJs);
+var _TranslateIconJs = require('./TranslateIcon.js');
+var _TranslateIconJsDefault = _parcelHelpers.interopDefault(_TranslateIconJs);
+var _TrashIconJs = require('./TrashIcon.js');
+var _TrashIconJsDefault = _parcelHelpers.interopDefault(_TrashIconJs);
+var _TrendingDownIconJs = require('./TrendingDownIcon.js');
+var _TrendingDownIconJsDefault = _parcelHelpers.interopDefault(_TrendingDownIconJs);
+var _TrendingUpIconJs = require('./TrendingUpIcon.js');
+var _TrendingUpIconJsDefault = _parcelHelpers.interopDefault(_TrendingUpIconJs);
+var _TruckIconJs = require('./TruckIcon.js');
+var _TruckIconJsDefault = _parcelHelpers.interopDefault(_TruckIconJs);
+var _UploadIconJs = require('./UploadIcon.js');
+var _UploadIconJsDefault = _parcelHelpers.interopDefault(_UploadIconJs);
+var _UserAddIconJs = require('./UserAddIcon.js');
+var _UserAddIconJsDefault = _parcelHelpers.interopDefault(_UserAddIconJs);
+var _UserCircleIconJs = require('./UserCircleIcon.js');
+var _UserCircleIconJsDefault = _parcelHelpers.interopDefault(_UserCircleIconJs);
+var _UserGroupIconJs = require('./UserGroupIcon.js');
+var _UserGroupIconJsDefault = _parcelHelpers.interopDefault(_UserGroupIconJs);
+var _UserRemoveIconJs = require('./UserRemoveIcon.js');
+var _UserRemoveIconJsDefault = _parcelHelpers.interopDefault(_UserRemoveIconJs);
+var _UserIconJs = require('./UserIcon.js');
+var _UserIconJsDefault = _parcelHelpers.interopDefault(_UserIconJs);
+var _UsersIconJs = require('./UsersIcon.js');
+var _UsersIconJsDefault = _parcelHelpers.interopDefault(_UsersIconJs);
+var _VariableIconJs = require('./VariableIcon.js');
+var _VariableIconJsDefault = _parcelHelpers.interopDefault(_VariableIconJs);
+var _VideoCameraIconJs = require('./VideoCameraIcon.js');
+var _VideoCameraIconJsDefault = _parcelHelpers.interopDefault(_VideoCameraIconJs);
+var _ViewBoardsIconJs = require('./ViewBoardsIcon.js');
+var _ViewBoardsIconJsDefault = _parcelHelpers.interopDefault(_ViewBoardsIconJs);
+var _ViewGridAddIconJs = require('./ViewGridAddIcon.js');
+var _ViewGridAddIconJsDefault = _parcelHelpers.interopDefault(_ViewGridAddIconJs);
+var _ViewGridIconJs = require('./ViewGridIcon.js');
+var _ViewGridIconJsDefault = _parcelHelpers.interopDefault(_ViewGridIconJs);
+var _ViewListIconJs = require('./ViewListIcon.js');
+var _ViewListIconJsDefault = _parcelHelpers.interopDefault(_ViewListIconJs);
+var _VolumeOffIconJs = require('./VolumeOffIcon.js');
+var _VolumeOffIconJsDefault = _parcelHelpers.interopDefault(_VolumeOffIconJs);
+var _VolumeUpIconJs = require('./VolumeUpIcon.js');
+var _VolumeUpIconJsDefault = _parcelHelpers.interopDefault(_VolumeUpIconJs);
+var _WifiIconJs = require('./WifiIcon.js');
+var _WifiIconJsDefault = _parcelHelpers.interopDefault(_WifiIconJs);
+var _XCircleIconJs = require('./XCircleIcon.js');
+var _XCircleIconJsDefault = _parcelHelpers.interopDefault(_XCircleIconJs);
+var _XIconJs = require('./XIcon.js');
+var _XIconJsDefault = _parcelHelpers.interopDefault(_XIconJs);
+var _ZoomInIconJs = require('./ZoomInIcon.js');
+var _ZoomInIconJsDefault = _parcelHelpers.interopDefault(_ZoomInIconJs);
+var _ZoomOutIconJs = require('./ZoomOutIcon.js');
+var _ZoomOutIconJsDefault = _parcelHelpers.interopDefault(_ZoomOutIconJs);

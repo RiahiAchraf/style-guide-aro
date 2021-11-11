@@ -1,0 +1,196 @@
+'use strict';
+
+Object.defineProperty(exports, '__esModule', { value: true });
+
+function _interopDefault (ex) { return (ex && (typeof ex === 'object') && 'default' in ex) ? ex['default'] : ex; }
+
+var React = _interopDefault(require('react'));
+var solid = require('@heroicons/react/solid');
+var react = require('@headlessui/react');
+
+function _objectWithoutPropertiesLoose(source, excluded) {
+  if (source == null) return {};
+  var target = {};
+  var sourceKeys = Object.keys(source);
+  var key, i;
+
+  for (i = 0; i < sourceKeys.length; i++) {
+    key = sourceKeys[i];
+    if (excluded.indexOf(key) >= 0) continue;
+    target[key] = source[key];
+  }
+
+  return target;
+}
+
+var blueClass = "shadow-sm focus:ring-indigo-500 focus:border-indigo-500 block w-full sm:text-sm border-gray-300 rounded-md";
+var redClass = "block w-full pr-10 border-red-300 text-red-900 placeholder-red-300 focus:outline-none focus:ring-red-500 focus:border-red-500 sm:text-sm rounded-md";
+
+var _excluded = ["name", "label", "value", "onChange", "placeholder", "readonly", "error", "errorMessage", "optional"];
+
+var TextInput = function TextInput(props) {
+  var name = props.name,
+      label = props.label,
+      value = props.value,
+      onChange = props.onChange,
+      placeholder = props.placeholder,
+      _props$readonly = props.readonly,
+      readonly = _props$readonly === void 0 ? false : _props$readonly,
+      _props$error = props.error,
+      error = _props$error === void 0 ? false : _props$error,
+      errorMessage = props.errorMessage,
+      _props$optional = props.optional,
+      optional = _props$optional === void 0 ? false : _props$optional,
+      rest = _objectWithoutPropertiesLoose(props, _excluded);
+
+  return React.createElement("div", null, React.createElement("div", {
+    className: "flex justify-between"
+  }, React.createElement("label", {
+    htmlFor: name,
+    className: "block text-sm font-medium text-gray-700"
+  }, label), optional && React.createElement("span", {
+    className: "text-sm text-gray-500",
+    id: "email-optional"
+  }, "Optional")), React.createElement("div", {
+    className: "mt-1 relative rounded-md shadow-sm"
+  }, React.createElement("input", Object.assign({
+    className: error ? redClass : blueClass,
+    type: rest.type || 'text',
+    name: name,
+    id: name,
+    value: value,
+    onChange: onChange,
+    placeholder: placeholder,
+    readOnly: readonly
+  }, rest)), error && React.createElement("div", {
+    className: "absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none"
+  }, React.createElement(solid.ExclamationCircleIcon, {
+    className: "h-5 w-5 text-red-500",
+    "aria-hidden": "true"
+  }))), error && React.createElement("p", {
+    className: "mt-2 text-sm text-red-600",
+    id: "email-error"
+  }, errorMessage));
+};
+// import { ExclamationCircleIcon } from "@heroicons/react/solid";
+// import { redClass, blueClass } from "./styled";
+// export interface TextInputProps extends Omit<HTMLAttributes<HTMLInputElement>, 'size' | 'disabled' | 'onChange' > {
+//   name?: string;
+//   label: string;
+//   value?: string;
+//   onChange?: ChangeEventHandler<HTMLInputElement>;
+//   error?: boolean;
+//   errorMessage?: string;
+//   optional?: boolean;
+//   /* Useful when input is controlled by another element */
+//   readonly?: boolean;
+//   [key: string]: any;
+// }
+// const TextInput:React.ForwardRefRenderFunction<HTMLInputElement, TextInputProps> = (props, ref) => {
+//   const {
+//     name,
+//     label,
+//     value,
+//     onChange,
+//     placeholder,
+//     readonly = false,
+//     error = false,
+//     errorMessage,
+//     optional = false,
+//     ...rest
+//   } = props;
+//   return (
+//     <div>
+//       <div className="flex justify-between">
+//         <label
+//           htmlFor={name}
+//           className="block text-sm font-medium text-gray-700"
+//         >
+//           {label}
+//         </label>
+//         {optional && (
+//           <span className="text-sm text-gray-500" id="email-optional">
+//             Optional
+//           </span>
+//         )}
+//       </div>
+//       <div className="mt-1 relative rounded-md shadow-sm">
+//         <input
+//           className={error ? redClass : blueClass}
+//           type={rest.type || 'text'}
+//           name={name}
+//           id={name}
+//           value={value} 
+//           onChange={onChange}
+//           placeholder={placeholder}
+//           readOnly={readonly}
+//           ref={ref}
+//           {...rest}
+//         />
+//         {error && (
+//           <div className="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none">
+//             {/* heroicones package : npm i @heroicons/react */}
+//             <ExclamationCircleIcon
+//               className="h-5 w-5 text-red-500"
+//               aria-hidden="true"
+//             />
+//           </div>
+//         )}
+//       </div>
+//       {error && (
+//         <p className="mt-2 text-sm text-red-600" id="email-error">
+//           {errorMessage}
+//         </p>
+//       )}
+//     </div>
+//   )
+// }
+// export default React.forwardRef<HTMLInputElement, TextInputProps>(TextInput);
+
+var appearance = {
+  primary: "inline-flex items-center border border-transparent font-medium rounded shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500",
+  secondary: "inline-flex items-center border border-transparent font-medium rounded text-indigo-700 bg-indigo-100 hover:bg-indigo-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500",
+  white: "inline-flex items-center border border-gray-300 shadow-sm font-medium rounded text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500",
+  round: "inline-flex items-center border border-transparent font-medium rounded-full shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+};
+var size = {
+  smaller: "px-2.5 py-1.5 text-xs",
+  small: "px-3 py-2 text-sm",
+  medium: "px-4 py-2 text-sm",
+  large: "px-4 py-2 text-base",
+  larger: "px-6 py-3 text-base"
+};
+
+var Button = function Button(props) {
+  var _props$buttonType = props.buttonType,
+      buttonType = _props$buttonType === void 0 ? "primary" : _props$buttonType,
+      _props$buttonSize = props.buttonSize,
+      buttonSize = _props$buttonSize === void 0 ? "medium" : _props$buttonSize,
+      _props$children = props.children,
+      children = _props$children === void 0 ? "Button Text" : _props$children,
+      onClick = props.onClick;
+  return React.createElement("button", {
+    type: "button",
+    className: appearance[buttonType] + " " + size[buttonSize],
+    onClick: onClick
+  }, children);
+};
+
+var ToggleSwitch = function ToggleSwitch(_ref) {
+  var enabled = _ref.enabled,
+      onChange = _ref.onChange;
+  return React.createElement(react.Switch, {
+    checked: enabled,
+    onChange: onChange,
+    className: (enabled ? 'bg-indigo-600' : 'bg-gray-200') + "\n            relative inline-flex flex-shrink-0 h-7 w-14 border-2 border-transparent rounded-full cursor-pointer transition-colors ease-in-out duration-200 focus:outline-none focus-visible:ring-2  focus-visible:ring-white focus-visible:ring-opacity-75"
+  }, React.createElement("span", {
+    className: "sr-only"
+  }, "Use setting"), React.createElement("span", {
+    "aria-hidden": "true",
+    className: (enabled ? 'translate-x-7' : 'translate-x-0') + "\n              pointer-events-none inline-block h-6 w-6 rounded-full bg-white shadow-lg transform ring-0 transition ease-in-out duration-200"
+  }));
+};
+
+exports.Button = Button;
+exports.TextInput = TextInput;
+exports.ToggleSwitch = ToggleSwitch;

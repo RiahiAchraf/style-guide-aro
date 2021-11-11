@@ -13,8 +13,6 @@
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build && yarn build-tailwind",
-    "test": "tsdx test --passWithNoTests",
-    "lint": "tsdx lint",
     "prepare": "yarn build",
     "size": "size-limit",
     "analyze": "size-limit --why",
